@@ -20,7 +20,7 @@ h3 {
 
 p {
 	text-align: center;
-	color: brown
+	color: brown;
 }
 
 footer {
@@ -37,24 +37,24 @@ footer {
     top: 50%;
     left: 50%;
     margin-right: -50%;
-    transform: translate(-50%, -50%) 
+    transform: translate(-50%, -50%);
 }
 
 #tdldimglabel{
-    width: 15%
+    width: 15%;
 }
 
 #tdldimginput{
-    width: 61%
+    width: 61%;
 }
 
 #tdpointermode{
     width: 24%;
-	text-align: center
+	text-align: center;
 }
 
 #uploadImage{
-    float:left
+    float:left;
 }
 
 #dvColoursample{
@@ -69,7 +69,7 @@ footer {
 	position: absolute; 
 	left: 0; 
 	top: 0; 
-	z-index: 0
+	z-index: 0;
 }
 
 #cnvZoomPixels{
@@ -77,7 +77,7 @@ footer {
     position: absolute;
     left: 470px;
     top: 0;
-    z-index: 0
+    z-index: 0;
 }
 
 #dvSampleFrame{
@@ -99,4 +99,30 @@ footer {
     left: 495px;
     top: 177px;
     z-index: 0;
+}
+
+#loadImage {
+    width: 15%;
+}
+
+#myPhoto {
+    width: 61%;
+}
+
+#pointerDiv {
+    width: 24%;
+    text-align: center;
+}
+
+#coffeeBeanColorHeading {
+    width: 80%;
+}
+
+#commentSection {
+    width: 20%;
+    text-align: left;
+}
+
+#Comments {
+    text-align: center;
 }
